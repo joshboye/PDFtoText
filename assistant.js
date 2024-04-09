@@ -4,7 +4,7 @@ import { OpenAI } from 'openai';
 import PDFParser from 'pdf-parse';
 
 // Set your OpenAI API key (store securely using environment variables)
-const OPENAI_API_KEY = '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';
+const OPENAI_API_KEY = '';
 const OPENAI_ENGINE = 'davinci';
 
 // Initialize OpenAI API client
